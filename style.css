@@ -94,6 +94,7 @@ nav a:hover, nav a.active {
   cursor: pointer;
   transition: 0.3s ease;
   object-position: center top;
+  transform: translateY(10%);
 }
 
 .home-img img:hover {
